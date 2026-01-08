@@ -9,6 +9,7 @@ SQL, Typescript, GCloud/BigQuery
 Solana manlet.
 
 Links:
+
 [osk.cool](https://osk.cool/)
 
 [X](https://x.com/OSK546)

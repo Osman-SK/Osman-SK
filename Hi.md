@@ -10,5 +10,7 @@ Solana manlet.
 
 Links:
 [osk.cool](https://osk.cool/)
+
 [X](https://x.com/OSK546)
+
 [Dune](https://dune.com/osk2020)

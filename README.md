@@ -2,7 +2,7 @@ Hi 👋
 
 I am Osman.
 
-Interested in web3 data stack.
+Interested in web3 data stack and solana app dev.
 
 SQL, Typescript, GCloud/BigQuery
 

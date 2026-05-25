@@ -4,10 +4,9 @@ I am Osman.
 
 Interested in DevOps and web3 data stack.
 
-Linux, Docker, Kubernetes, GCP
-SQL, Typescript, GCP/BigQuery
+Linux, Docker, Kubernetes, GCP,
 
-Solana manlet.
+SQL, Typescript, GCP/BigQuery
 
 Links:
 

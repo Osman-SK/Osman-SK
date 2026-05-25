@@ -2,9 +2,10 @@ Hi 👋
 
 I am Osman.
 
-Interested in web3 data stack.
+Interested in DevOps and web3 data stack.
 
-SQL, Typescript, GCloud/BigQuery
+Linux, Docker, Kubernetes, GCP
+SQL, Typescript, GCP/BigQuery
 
 Solana manlet.
 

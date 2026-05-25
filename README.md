@@ -12,6 +12,8 @@ Links:
 
 [osk.cool](https://osk.cool/)
 
+[LinkedIn](https://www.linkedin.com/in/osmansarperkucuk/)
+
 [X](https://x.com/OSK546)
 
 [Dune](https://dune.com/osk2020)

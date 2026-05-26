@@ -6,7 +6,7 @@ Interested in DevOps and web3 data stack.
 
 Linux, Docker, Kubernetes, GCP,
 
-SQL, Typescript, GCP/BigQuery
+SQL, Typescript, BigQuery
 
 Links:
 

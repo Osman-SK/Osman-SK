@@ -1,19 +1,14 @@
-Hi 👋 
+# 👋 Hi, I'm Osman Sarper Kucuk
 
-I am Osman.
+**DevOps Engineer | Web3 Infrastructure & Data**
 
-Interested in DevOps and web3 data stack.
+DevOps engineer focused on building reliable, scalable infrastructure for Web3 and traditional systems. 
 
-Linux, Docker, Kubernetes, GCP,
+After several years as a Web3 Data Specialist working on on-chain analytics and data pipelines, I transitioned into infrastructure. I now combine my understanding of how decentralized systems behave with strong practices in Kubernetes, automation, CI/CD, and observability.
 
-SQL, Typescript, BigQuery
+## 🌐 Connect
 
-Links:
-
-[osk.cool](https://osk.cool/)
-
-[LinkedIn](https://www.linkedin.com/in/osmansarperkucuk/)
-
-[X](https://x.com/OSK546)
-
-[Dune](https://dune.com/osk2020)
+- 🌍 **Website**: [osk.cool](https://osk.cool)
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 🐦 **X**: [@OSK546](https://x.com/OSK546) 
+- 📊 **Dune**: [Dune](https://dune.com/osk2020)

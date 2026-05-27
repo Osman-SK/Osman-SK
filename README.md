@@ -9,6 +9,6 @@ After several years as a Web3 Data Specialist working on on-chain analytics and 
 ## 🌐 Connect
 
 - 🌍 **Website**: [osk.cool](https://osk.cool)
-- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/osmansarperkucuk)
 - 🐦 **X**: [@OSK546](https://x.com/OSK546) 
 - 📊 **Dune**: [Dune](https://dune.com/osk2020)
